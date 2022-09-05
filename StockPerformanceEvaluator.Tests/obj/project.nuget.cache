@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXFbgdMvXZeCYBtWmlnk3NlzY31aUjXjBTHk8en4ruT/oK85J0BH4/JkaqdJn1WWSfTGOpPVdM+zlf7AKhpGgg==",
+  "dgSpecHash": "Emar5EHL7A5MuotLKIk1BXOROI0Wf8/G0y73p8U5e901C6iMvz6PMvEM+p+nGcWraunzUuKXsjYhQX+9qKvkkw==",
   "success": true,
-  "projectFilePath": "/Users/axh309/Projects/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
+  "projectFilePath": "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/axh309/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
     "/Users/axh309/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",

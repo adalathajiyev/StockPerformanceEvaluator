@@ -6763,11 +6763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/axh309/Projects/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
+      "projectUniqueName": "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
       "projectName": "StockPerformanceEvaluator.Tests",
-      "projectPath": "/Users/axh309/Projects/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
+      "projectPath": "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator.Tests/StockPerformanceEvaluator.Tests.csproj",
       "packagesPath": "/Users/axh309/.nuget/packages/",
-      "outputPath": "/Users/axh309/Projects/StockPerformanceEvaluator.Tests/obj/",
+      "outputPath": "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/axh309/.nuget/NuGet/NuGet.Config"
@@ -6782,8 +6782,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/axh309/Projects/StockPerformanceEvaluator/StockPerformanceEvaluator.csproj": {
-              "projectPath": "/Users/axh309/Projects/StockPerformanceEvaluator/StockPerformanceEvaluator.csproj"
+            "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator/StockPerformanceEvaluator.csproj": {
+              "projectPath": "/Users/axh309/Documents/GitHub/StockPerformance/StockPerformanceEvaluator/StockPerformanceEvaluator.csproj"
             }
           }
         }
